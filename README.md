@@ -17,6 +17,9 @@ and of 99% on the provided Niger-Congo set.
 
 ## How to Build
 
+Make sure to run `git submodule update --init`
+in order to obtain the data in a fresh clone.
+
 The main portion of the software is the Haskell file `cm.lhs`.
 It is known to compile with GHC version 8.10.7.
 
